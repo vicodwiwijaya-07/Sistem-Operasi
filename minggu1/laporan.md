@@ -163,30 +163,30 @@ ing)
 
 ## Latihan 1.3
 
-![Uji coba latihan 1.3](satu.png)
+![Uji coba latihan 1.3](image/satu.png)
 
 ## Latihan 1.4
-![alt text](Latihan14.png)
+![alt text](image/Latihan14.png)
 
-![alt text](Latihan1.4(2).png)
+![alt text](image/Latihan1.4(2).png)
 
-![alt text](Latihan1.4(3).png)
+![alt text](image/Latihan1.4(3).png)
 
-![alt text](Latihan1.4(4).png)
+![alt text](image/Latihan1.4(4).png)
 
-![alt text](Latihan1.4(5).png)
+![alt text](image/Latihan1.4(5).png)
 
-![alt text](Latihan1.4(6).png)
+![alt text](image/Latihan1.4(6).png)
 
 ## Latihan 1.5
 
-![alt text](pertama.png)
+![alt text](image/pertama.png)
 
-![alt text](kedua.png)
+![alt text](image/kedua.png)
 
-![alt text](ketiga.png)
+![alt text](image/ketiga.png)
 
-![alt text](keempat.png)
+![alt text](image/keempat.png)
 
 ## 1.10.3. Latihan Refleksi
 ### Latihan 1.6
